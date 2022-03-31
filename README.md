@@ -1,6 +1,6 @@
 # Helper Function Example in Laravel 8
 
-In this post we will see helper function example in laravel, Laravel provide in-buit global "helper" PHP functions and these functions are used by the laravel framework itself.
+We will see helper function example in laravel, Laravel provide in-buit global "helper" PHP functions and these functions are used by the laravel framework itself.
 
 Here i will show laravel 8 global helper function with differnt type of example and also we will see how to use global helper function in laravel 8.
 
