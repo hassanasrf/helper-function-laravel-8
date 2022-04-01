@@ -1,4 +1,4 @@
-# Helper Function Example in Laravel 8
+# Helper Function Example in Laravel 8 
 
 We will see helper function example in laravel, Laravel provide in-buit global "helper" PHP functions and these functions are used by the laravel framework itself.
 
